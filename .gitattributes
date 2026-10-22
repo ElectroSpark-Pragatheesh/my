@@ -1,2 +1,5 @@
 eagler262.part* binary
 eaglermacro.part* binary
+*.jpg binary
+*.jpeg binary
+*.png binary
